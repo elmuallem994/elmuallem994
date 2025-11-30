@@ -53,6 +53,24 @@
 
 ---
 
+## 🎓 Certifications
+
+Here are some of my verified cybersecurity certificates (PDF):
+
+**Full list available in my certificates repository 📁**
+
+➡️ [**My Certifications Repository**](https://github.com/elmuallem994/my-certificates) 👉
+
+---
+
+### 🌟 Highlights:
+
+- **Google – _Foundations of Cybersecurity_**  
+- **TryHackMe – _Pre-Security Learning Path_**  
+- **TryHackMe – _Cyber Security 101 Learning Path_**
+
+---
+
 ## 📫 Contact Me  
 📧 Email: **elmuallem994@gmail.com**  
 🌐 LinkedIn: *Coming soon*  

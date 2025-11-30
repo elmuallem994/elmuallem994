@@ -61,7 +61,6 @@ Here are some of my verified cybersecurity certificates (PDF):
 
 ➡️ [**My Certifications Repository**](https://github.com/elmuallem994/my-certificates) 👉
 
----
 
 ### 🌟 Highlights:
 

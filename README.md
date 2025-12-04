@@ -6,7 +6,7 @@ Passionate about vulnerability discovery, exploitation techniques, and building 
 ---
 
 ## 🚀 About Me  
-- Focused on **Offensive Security**, Penetration Testing, and Ethical Hacking  
+- Focused on **Offensive Security**, Penetration Testing, **OSINT**, and Ethical Hacking  
 - Currently specializing in:
   - **Web Application Penetration Testing**
   - **Network Penetration Testing**
@@ -14,6 +14,7 @@ Passionate about vulnerability discovery, exploitation techniques, and building 
   - **Exploitation Techniques **
   - Creating tools using **Python, Nmap, Burp Suite, Metasploit, etc.**
 - Interested in building offensive tools, automating attack workflows, and helping companies secure their systems  
+- Experienced in conducting OSINT investigations to gather intelligence, map digital footprints, and support offensive security operations.
 - Constantly developing new projects for offensive security and freelancing work  
 
 ---
@@ -28,6 +29,16 @@ Passionate about vulnerability discovery, exploitation techniques, and building 
 - Writing custom scripts for attacks (Python)  
 - Using and customizing offensive tools (Nmap, Burp Suite, Metasploit, etc.)
 
+### 🕵️‍♂️ OSINT Skills
+- Digital footprinting & reconnaissance
+- Username, email, and phone number investigations
+- Social media intelligence (SOCMINT)
+- Breach data analysis & dark web research
+- Metadata extraction & file analysis
+- Infrastructure reconnaissance (domains, subdomains, IPs)
+- Using OSINT frameworks & tools (theHarvester, Holehe, Spiderfoot, etc.)
+
+
 ### 🔸 Technical Skills  
 - Python for offensive scripting & automation  
 - Linux for security operations  
@@ -35,6 +46,8 @@ Passionate about vulnerability discovery, exploitation techniques, and building 
 - Ethical hacking fundamentals  
 - Building & automating offensive utilities and tools  
 - Working with APIs & scrapers for information gathering  
+- OSINT automation with Python
+- Building scraping and data-collection tools for intelligence gathering
 
 ---
 
@@ -45,6 +58,8 @@ These projects will be focused on real-world offensive security and freelancing:
 - 🔥 **Recon & OSINT Tools (Offensive Use)**  
 - 🔥 **Custom Exploitation Scripts (Python)**  
 - 🔥 **Bug Bounty Utilities**  
+- 🔎 OSINT Automation Tools
+- 🕵️‍♂️ Intelligence Gathering Scripts (Python)
 
 > Projects are under development and will be uploaded soon 🛠️
 

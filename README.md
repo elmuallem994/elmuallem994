@@ -11,7 +11,7 @@ Passionate about vulnerability discovery, exploitation techniques, and building 
   - **Web Application Penetration Testing**
   - **Network Penetration Testing**
   - **Vulnerability Discovery & Reporting**
-  - **Exploitation Techniques (beginner → intermediate)**
+  - **Exploitation Techniques **
   - Creating tools using **Python, Nmap, Burp Suite, Metasploit, etc.**
 - Interested in building offensive tools, automating attack workflows, and helping companies secure their systems  
 - Constantly developing new projects for offensive security and freelancing work  

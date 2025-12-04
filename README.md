@@ -1,79 +1,73 @@
-# 👋 Hi, I’m **Abdullah AL Moallem**
+# 👋 Hi, I'm **Abdullah AL Moallem**
 
-### 🛡️ Cybersecurity Trainee | SOC | OSINT | Jr.Penetration Tester | Python & Ethical Hacking .
-🔍 Passionate about Defensive & Offensive Security, Threat Analysis, and Python-based Security Tools.
-
----
-
-## 🔥 About Me  
-- 🧩 Focused on **SOC, OSINT, Python, Network Security, and Ethical Hacking**  
-- 🎯 Interested in building defensive tools, detection rules, security automations, and developing techniques for vulnerability discovery and exploitation analysis.  
-- 🚀 Continuously learning and developing cybersecurity projects  
-- 📘 Currently developing:  
-  - Security automation scripts in Python  
-  - Blue Team hands-on labs  
-  - OSINT research & investigations  
-  - Vulnerability discovery & exploitation fundamentals  
+### 🔥 Offensive Security Practitioner | Penetration Testing | Python Security Automation  
+Passionate about vulnerability discovery, exploitation techniques, and building offensive security tools.
 
 ---
 
-## 🛠️ Skills  
-### **Defensive Security**
-- SIEM & Log Analysis  
-- SOC Tier 1 Responsibilities  
-- Threat Intelligence  
-- OSINT Investigations  
-- Detection Engineering (rules, alerts, and correlation logic) 
-- Network & Endpoint Security Hardening  
+## 🚀 About Me  
+- Focused on **Offensive Security**, Penetration Testing, and Ethical Hacking  
+- Currently specializing in:
+  - **Web Application Penetration Testing**
+  - **Network Penetration Testing**
+  - **Vulnerability Discovery & Reporting**
+  - **Exploitation Techniques (beginner → intermediate)**
+  - Creating tools using **Python, Nmap, Burp Suite, Metasploit, etc.**
+- Interested in building offensive tools, automating attack workflows, and helping companies secure their systems  
+- Constantly developing new projects for offensive security and freelancing work  
 
-### **Offensive Security**
+---
+
+## 🛠 Offensive Security Skills
+
+### 🔸 Penetration Testing  
 - Web Application Penetration Testing  
 - Network Penetration Testing  
-- Vulnerability Discovery & Reporting  
-- Exploitation Techniques (basic)  
-- Using and customizing offensive tools (Nmap, Burp Suite, Metasploit, etc.) 
+- Vulnerability Assessment  
+- Manual & Automated Exploitation  
+- Writing custom scripts for attacks (Python)  
+- Using and customizing offensive tools (Nmap, Burp Suite, Metasploit, etc.)
 
-### **Technical Skills**
-- Python (problem solving, Scripting, Automation & Security Tools)  
-- Linux  
-- Basic Networking  
-- Ethical Hacking Fundamentals  
-- Building & automating security utilities (defensive & offensive)
-- Working with APIs, scrapers, and automation scripts for security tasks 
-
----
-
-## 📂 Featured Projects (Coming Soon)
-⚡ Security Tools  
-⚡ OSINT Tools  
-⚡ Log Analysis Projects  
-⚡ Python Automation Scripts
-
-> Projects are under construction and will be uploaded soon 🚧
+### 🔸 Technical Skills  
+- Python for offensive scripting & automation  
+- Linux for security operations  
+- Basic networking  
+- Ethical hacking fundamentals  
+- Building & automating offensive utilities and tools  
+- Working with APIs & scrapers for information gathering  
 
 ---
 
-## 🎓 Certifications
+## ⭐ Featured Projects (Coming Soon)
+These projects will be focused on real-world offensive security and freelancing:
 
+- 🔥 **Web Pentesting Tools**  
+- 🔥 **Recon & OSINT Tools (Offensive Use)**  
+- 🔥 **Custom Exploitation Scripts (Python)**  
+- 🔥 **Bug Bounty Utilities**  
+
+> Projects are under development and will be uploaded soon 🛠️
+
+---
+
+## 🎓 Certifications  
 Here are some of my verified cybersecurity certificates (PDF):
 
 **Full list available in my certificates repository 📁**
 
-➡️ [**My Certifications Repository**](https://github.com/elmuallem994/my-certificates) 👉
+🔗 **[My Certifications Repository](https://github.com/elmuallem994/my-certificates)**
 
-
-### 🌟 Highlights:
-
-- **Google – _Foundations of Cybersecurity_**  
-- **TryHackMe – _Pre-Security Learning Path_**  
-- **TryHackMe – _Cyber Security 101 Learning Path_**
+### 📌 Highlights:
+- **Google – Foundations of Cybersecurity**  
+- **TryHackMe – Pre-Security Learning Path**  
+- **TryHackMe – Cyber Security 101 Learning Path**  
 
 ---
 
-## 📫 Contact Me  
-📧 Email: **elmuallem994@gmail.com**  
-🌐 LinkedIn: *Coming soon*  
+## 📧 Contact Me  
+- Email: **elmuallem994@gmail.com**  
+- LinkedIn: *Coming soon*  
 
 ---
 
-### ⚡ Always improving. Always learning.
+⚡ **Always improving. Focused on Offensive Security.**

@@ -91,7 +91,7 @@ Here are some of my verified cybersecurity certificates (PDF):
 
 ## 📧 Contact Me  
 - Email: **elmuallem994@gmail.com**  
-- LinkedIn: *Coming soon*  
+- LinkedIn: **www.linkedin.com/in/abdullah-al-moallem-43712a22b**
 
 ---
 

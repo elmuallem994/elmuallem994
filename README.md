@@ -42,7 +42,7 @@ labs and continuous self-directed learning.
 
 **Scripting**
 - Bash scripting (automation, security audit scripts)
-- Python (fundamentals)
+- Python
 
 ---
 

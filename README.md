@@ -15,7 +15,7 @@ labs and continuous self-directed learning.
 
 ---
 
-## 🛠 Offensive Security Skills
+## 🛠 Technical Skills
 
 **Linux & Server Administration**
 - Ubuntu Server setup, configuration, and management (CLI-based, remote via SSH)

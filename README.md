@@ -17,33 +17,34 @@ labs and continuous self-directed learning.
 
 ## 🛠 Offensive Security Skills
 
-### 🔸 Penetration Testing  
-- Web Application Penetration Testing  
-- Network Penetration Testing  
-- Vulnerability Assessment  
-- Manual & Automated Exploitation  
-- Writing custom scripts for attacks (Python)  
-- Using and customizing offensive tools (Nmap, Burp Suite, Metasploit, etc.)
+**Linux & Server Administration**
+- Ubuntu Server setup, configuration, and management (CLI-based, remote via SSH)
+- User & permission management, SUID/SGID auditing, systemd services
+- Disk management (LVM), process management, log analysis
 
-### 🕵️‍♂️ OSINT Skills
-- Digital footprinting & reconnaissance
-- Username, email, and phone number investigations
-- Social media intelligence (SOCMINT)
-- Breach data analysis & dark web research
-- Metadata extraction & file analysis
-- Infrastructure reconnaissance (domains, subdomains, IPs)
-- Using OSINT frameworks & tools (theHarvester, Holehe, Spiderfoot, etc.)
+**Security & Hardening**
+- SSH hardening (key-based auth, fail2ban, secure configuration)
+- Firewall configuration (ufw, default-deny policy)
+- Web server security (Nginx, HTTPS/TLS, security headers)
+- Database security (MariaDB, least-privilege, network isolation)
+- System auditing & hardening (Lynis, CIS principles)
+- Incident response & digital forensics fundamentals (SANS/NIST cycle)
+- Backup & disaster recovery (3-2-1 strategy, automated backups)
 
+**Offensive Security**
+- Reconnaissance & scanning (Nmap, service enumeration)
+- Vulnerability assessment & false-positive analysis
+- Purple-teaming (attacking own defenses to validate them)
 
-### 🔸 Technical Skills  
-- Python for offensive scripting & automation  
-- Linux for security operations  
-- Basic networking  
-- Ethical hacking fundamentals  
-- Building & automating offensive utilities and tools  
-- Working with APIs & scrapers for information gathering  
-- OSINT automation with Python
-- Building scraping and data-collection tools for intelligence gathering
+**Tools & Environments**
+- Kali Linux, Nmap, Wireshark (learning), Burp Suite (learning)
+- VMware virtualization, multi-VM lab environments
+
+**Scripting**
+- Bash scripting (automation, security audit scripts)
+- Python (fundamentals)
+
+---
 
 ---
 

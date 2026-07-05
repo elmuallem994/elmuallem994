@@ -37,7 +37,7 @@ labs and continuous self-directed learning.
 - Purple-teaming (attacking own defenses to validate them)
 
 **Tools & Environments**
-- Kali Linux, Nmap, Wireshark (learning), Burp Suite (learning)
+- Kali Linux, Nmap, Wireshark, Burp Suite
 - VMware virtualization, multi-VM lab environments
 
 **Scripting**

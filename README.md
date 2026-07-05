@@ -6,16 +6,12 @@ Passionate about vulnerability discovery, exploitation techniques, and building 
 ---
 
 ## 🚀 About Me  
-- Focused on **Offensive Security**, Penetration Testing, **OSINT**, and Ethical Hacking  
-- Currently specializing in:
-  - **Web Application Penetration Testing**
-  - **Network Penetration Testing**
-  - **Vulnerability Discovery & Reporting**
-  - **Exploitation Techniques **
-  - Creating tools using **Python, Nmap, Burp Suite, Metasploit, etc.**
-- Interested in building offensive tools, automating attack workflows, and helping companies secure their systems  
-- Experienced in conducting OSINT investigations to gather intelligence, map digital footprints, and support offensive security operations.
-- Constantly developing new projects for offensive security and freelancing work  
+Self-taught cybersecurity practitioner specializing in **Linux server
+security, hardening, and administration**, with a solid foundation in
+**offensive security**. I secure systems while understanding exactly how
+attackers try to break them — a dual mindset I bring to every server I
+configure. Currently building deep, hands-on expertise through practical
+labs and continuous self-directed learning. 
 
 ---
 

@@ -48,17 +48,20 @@ labs and continuous self-directed learning.
 
 ---
 
-## ⭐ Featured Projects (Coming Soon)
-These projects will be focused on real-world offensive security and freelancing:
+## ⭐ Projects
+### 🔐 Hardened Linux Server — Home Lab
+Built and secured a complete Ubuntu Server from scratch in a virtualized
+lab environment, applying professional, layered security (defense-in-depth):
+- Configured key-based SSH authentication and disabled password/root login
+- Deployed a default-deny firewall (ufw) and fail2ban intrusion prevention
+- Secured an Nginx web server with HTTPS/TLS and security headers
+- Hardened a MariaDB database (network isolation, least-privilege users)
+- Implemented automated, scheduled backups with retention (Bash + cron)
+- Ran automated security audits (Lynis) and validated defenses via Nmap
+  from an attacker's perspective (Kali Linux)
 
-- 🔥 **Web Pentesting Tools**  
-- 🔥 **Recon & OSINT Tools (Offensive Use)**  
-- 🔥 **Custom Exploitation Scripts (Python)**  
-- 🔥 **Bug Bounty Utilities**  
-- 🔎 OSINT Automation Tools
-- 🕵️‍♂️ Intelligence Gathering Scripts (Python)
-
-> Projects are under development and will be uploaded soon 🛠️
+*Skills demonstrated: Linux administration, system hardening, network
+security, incident response, automation, penetration testing basics.*
 
 ---
 

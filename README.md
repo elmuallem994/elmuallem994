@@ -65,6 +65,16 @@ security, incident response, automation, penetration testing basics.*
 
 ---
 
+## Education
+
+**Computer Programming** — Damascus University, then Istanbul University
+*(2-year institute program, partially completed)*
+
+**Self-Directed Learning** — Cybersecurity & Linux Administration
+*Continuous hands-on training through labs and practical projects*
+
+---
+
 ## 🎓 Certifications  
 Here are some of my verified cybersecurity certificates (PDF):
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Abdullah AL Moallem**
 
-### 🔥 Offensive Security Practitioner | Penetration Testing | Python Security Automation  
+### 🔥 **Linux Server Security & Administration | Penetration Testing** 
 Passionate about vulnerability discovery, exploitation techniques, and building offensive security tools.
 
 ---
